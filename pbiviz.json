@@ -1,1 +1,21 @@
-{"visual":{"name":"lineAndClusteredGroupedColumChart","displayName":"Line and clustered grouped colum chart","guid":"lineAndClusteredGroupedColumChartF6BEDF9A7F0E4F83B3BFFA4540699008","visualClassName":"Visual","version":"1.0.0.0","description":"","supportUrl":"","gitHubUrl":""},"apiVersion":"5.3.0","author":{"name":"","email":""},"assets":{"icon":"assets/icon.png"},"externalJS":null,"style":"style/visual.less","capabilities":"capabilities.json","dependencies":null,"stringResources":[],"version":"1.0.0.0"}
+{
+  "visual": {
+    "name": "lineAndClusteredGroupedColumnChart",
+    "displayName": "Line and clustered grouped column chart",
+    "guid": "lineAndClusteredGroupedColumnChartF6BEDF9A7F0E4F83B3BFFA4540699008",
+    "visualClassName": "Visual",
+    "version": "1.0.0.0",
+    "description": "Line and clustered grouped column chart",
+    "supportUrl": "https://www.wisconsin.edu/offices/finance-administration/office-of-learning-information-technology/systems-engineering/",
+    "gitHubUrl": "https://github.com/UW-System-Administration/pbiviz-line-and-clustered-grouped-column-chart"
+  },
+  "apiVersion": "5.3.0",
+  "author": { "name": "James Johnston", "email": "james.johnston@wisconsin.edu" },
+  "assets": { "icon": "assets/icon.png" },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": [],
+  "version": "1.0.0.0"
+}
